@@ -1,2 +1,28 @@
-# 581df4ec-cursor-rules-ai-ide-invoice
-The cursor rules tool you'd build yourself — if you had the time.  Fully documented admin settings panel — no code required for configuration. Compatible with all major WordPress themes and page builders.  ## What's Included  - Cursor Rules &amp; Ai Ide Invoice And Payment — fully configured and ready to use - Clean admin settings panel with inline doc
+# Cursor Rules & AI IDE Invoice and Payment WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w7sLcLl5wg5tu7jCcZv19)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w7sLcLl5wg5tu7jCcZv19)
+
